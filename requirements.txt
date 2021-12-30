@@ -1,4 +1,4 @@
 $ pip install pystan==2.19.1.1
-$$ pip install prophet
+$ pip install prophet
 $ pip install yfinance
 $ pip install plotly==5.5.0
