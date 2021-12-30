@@ -1,3 +1,4 @@
+pip install --upgrade pip
 fbprophet==2.19.1.1 
 yfinance==0.1.67
 plotly==5.5.0
