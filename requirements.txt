@@ -1,4 +1,1 @@
-pystan
-prophet
-yfinance
-plotly
+$ pip install streamlit fbprophet yfinance plotly
