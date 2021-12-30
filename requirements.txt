@@ -1,4 +1,4 @@
-pystan==2.19.1.1
+pystan
 prophet
 yfinance
-plotly==5.5.0
+plotly
